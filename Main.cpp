@@ -1,5 +1,6 @@
 /* Trabalho de POO: NABLA - cadastro de alunos e professores   
-   Equipe: Silvio Eduardo, Lucas Frota, Isaac Honório 
+   Autor: Silvio Eduardo Sales de Britto Ribeiro
+   Orientação: Sidney Xavier Botão
    Curso: Ciencia da Computação, 2° semestre - 2018.1 
    =====================================#================
   
