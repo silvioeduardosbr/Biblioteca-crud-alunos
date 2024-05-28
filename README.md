@@ -1,4 +1,4 @@
-Cadastro-de-alunos-Escola-de-Dan-a---FINAL
+Sistema para cadastro de alunos
 
 Trabalho final da disciplina de Programação Estruturada e Orientada a Objetos do curso de Ciência da Computação da UECE.
 
